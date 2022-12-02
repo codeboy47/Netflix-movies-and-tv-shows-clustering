@@ -1,2 +1,2 @@
 # Netflix-movies-and-tv-shows-clustering
-Analyzing the movies and tv shows available on Netflix.
+Analyzing the dataset consisting of tv shows and movies available on Netflix. Also clustering similar content by matching text-based features.
