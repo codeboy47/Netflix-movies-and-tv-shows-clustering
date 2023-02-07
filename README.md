@@ -15,17 +15,19 @@
 <p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb</b> - Includes all functions required for classification operations.</li>
+  <li><b>Netflix_movies_and_tv_shows_clustering.ipynb</b> - Includes all functions required for classification operations.</li>
+</ul>
+
+<h4>Input Files:</h4>
+<ul>
+  <li><b>NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv</b> - Input dataset having information about different shows/movies available on Netflix.</li>
 </ul>
 
 <h4>Output:</h4>
 <ul>
   <li><b>Google Colab</b> - All the outputs are visible in the provided colab notebook.
 </ul>
-<h4>Input Files:</h4>
-<ul>
-  <li><b>NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv</b> - Input dataset having information about different shows/movies available on Netflix.</li>
-</ul>
+
 <h4>Data Source:</h4>
 <li><b>https://learn.almabetter.com/courses/take/team-capstone-projects/texts/27395237-netflix-movies-and-tv-shows-clustering.</li>
 <ul>
