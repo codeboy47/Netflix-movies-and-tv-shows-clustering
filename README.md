@@ -10,6 +10,7 @@
 
 <p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like description, cast, director, genre etc. for a particular movie/show.</p>
 
+
 ## :floppy_disk: Project Files Description
 
 <p>This project includes a colab notebook, a data source and a presentation:</p>
@@ -28,7 +29,6 @@
   <li><b>Google Colab</b> - All the outputs are visible in the provided colab notebook.
 </ul>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## :book: Problem Statement
 
@@ -81,6 +81,7 @@ It is an unsupervised learning method, hence no supervision is provided to the a
 Clustering is a powerful technique that can be used for movie recommendation systems like Netflix. By grouping similar movies and users together, clustering algorithms can identify patterns in the preferences and behavior of users, providing valuable insights into which movies to recommend to which users. This leads to more personalized recommendations, better user engagement, and increased satisfaction with the movie-watching experience. By using clustering, Netflix can continue to provide its users with relevant, enjoyable content, making it a crucial component in maintaining its position as a leader in the entertainment industry.
 
 
+## :scroll: Credits
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit101/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeboy47/)
 [![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshit.dtuindia/)
