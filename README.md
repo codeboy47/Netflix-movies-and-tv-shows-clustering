@@ -12,7 +12,7 @@
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
+<p>This Project includes a colab notebook, a data source and a presentation:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>Netflix_movies_and_tv_shows_clustering.ipynb</b> - Includes all functions required for classification operations.</li>
@@ -65,6 +65,19 @@ Here I wanted to gain important statistical insights from the data and the thing
 Clustering or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group."
 It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns. 
 It is an unsupervised learning method; hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML systems can use this id to simplify the processing of large and complex datasets.
+
+# Data insights:
+* Most of the content available on Netflix is for mature audiences which shows the demand for kids’ content is low.
+* In recent years, Netflix has increasingly focused on TV shows rather than movies.
+* Most movies/TV shows available on Netflix were directed by Raúl Campos and Jan Suter.
+* Based on the content available on Netflix, the United States has produced the highest number of movies and TV shows.
+* Most movies’ duration is around 80 to 120 minutes whereas the duration for TV shows is around 1 to 2 seasons.
+* Japan has more TV shows than movies on Netflix.
+* Anupam Kher has acted in most of the movies and shows present on Netflix.
+* Hierarchical clustering formed 4 clusters whereas K-means formed 5 clusters.
+* We get the optimal value of k at 5 using the elbow method and Silhouette score.
+* Content is divided into 5 clusters: Family movies, Documentaries, International TV Shows, International movies and Kids’ TV shows.
+
 
 # Conclusion
 In conclusion, tailored recommendations can be made based on information about movies and TV shows. In addition, similar models can be developed to provide valuable recommendations to consumers in other domains.
