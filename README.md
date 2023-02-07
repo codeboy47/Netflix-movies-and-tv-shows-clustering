@@ -33,9 +33,9 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: Problem Statement</h2>
-Netflix is the world’s leading internet entertainment service with enjoying TV series, documentaries, and feature films across a wide variety of genres and languages. The task is to analyze the dataset from the Netflix database to cluster similar content by matching text-based features. Most of the users spend more time deciding what to watch than watching the movie or a tv show. Therefore, by understanding the existing data and analyze their trends and patterns, a machine learning models can be built for segmentation of different types of movies/tv shows that can help the user in recommending movies and shows based on their preferences.
+Netflix is the world’s leading internet entertainment service enjoying TV series, documentaries, and feature films across a wide variety of genres and languages. The task is to analyze the dataset from the Netflix database to cluster similar content by matching text-based features. Most users spend more time deciding what to watch than watching a movie or a tv show. Therefore, by understanding the existing data and analysing their trends and patterns, a machine learning model can be built for the segmentation of different types of movies/tv shows that can help the user in recommending movies and shows based on their preferences.
 
-<h2> :book: Data Summery</h2>
+<h2> :book: Data Summary</h2>
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine.
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
@@ -56,15 +56,15 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Approach:
-The full code for this article can be found here. It is implemented in Python and different clustering algorithms are used. Below is a brief description of the general approach that I employed:
+Below is a brief description of the general approach that I used:
 * Data cleaning and pre-processing: 
-Here I checked and dealt with missing and duplicate variables from the data set as these can grossly affect the performance of different machine learning algorithms (many algorithms do not tolerate missing data).
+Here I checked and handled the missing and duplicate variables from the dataset as these can significantly affect the performance of a machine learning algorithm.
 * Exploratory Data Analysis: 
-Here I wanted to gain important statistical insights from the data and the things that I checked for were the distributions of the different attributes, correlations of the attributes with each other and the target variable and I calculated important odds and proportions for the categorical attributes.
+Here I wanted to learn the important statistical insights from the data where I checked for the distributions of the different attributes and their correlation with each other. I also performed univariate and bivariate analyses.
 * Clustering:
 Clustering or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group."
 It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns. 
-It is an unsupervised learning method; hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML systems can use this id to simplify the processing of large and complex datasets.
+It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML systems can use this id to simplify the processing of large and complex datasets.
 
 # Data insights:
 * Most of the content available on Netflix is for mature audiences which shows the demand for kids’ content is low.
@@ -80,8 +80,7 @@ It is an unsupervised learning method; hence no supervision is provided to the a
 
 
 # Conclusion
-In conclusion, tailored recommendations can be made based on information about movies and TV shows. In addition, similar models can be developed to provide valuable recommendations to consumers in other domains.
-It will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
+Clustering is a powerful technique that can be used for movie recommendation systems like Netflix. By grouping similar movies and users together, clustering algorithms can identify patterns in the preferences and behavior of users, providing valuable insights into which movies to recommend to which users. This leads to more personalized recommendations, better user engagement, and increased satisfaction with the movie-watching experience. By using clustering, Netflix can continue to provide its users with relevant, enjoyable content, making it a crucial component in maintaining its position as a leader in the entertainment industry.
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit101/)
