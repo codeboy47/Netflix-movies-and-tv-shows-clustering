@@ -5,7 +5,7 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
-<img src="Images/gsmarena_001.jpg" alt="gsmarena_001.jpg" width="300px" height="382px">
+<img src="Images/gsmarena_001.jpg" alt="gsmarena_001.jpg" width="700px" height="382px">
 </p>
 
 <p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.</p>
