@@ -64,7 +64,7 @@ Clustering or cluster analysis is a machine learning technique, which groups the
 It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns. 
 It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML systems can use this id to simplify the processing of large and complex datasets.
 
-## :book: Data insights:
+## :book: Data Insights:
 * Most of the content available on Netflix is for mature audiences which shows the demand for kids’ content is low.
 * In recent years, Netflix has increasingly focused on TV shows rather than movies.
 * Most movies/TV shows available on Netflix were directed by Raúl Campos and Jan Suter.
@@ -82,6 +82,7 @@ Clustering is a powerful technique that can be used for movie recommendation sys
 
 
 ## :scroll: Credits
+Akshit Singh | Engineer | Machine Learning Enthusiast
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit101/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeboy47/)
 [![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshit.dtuindia/)
