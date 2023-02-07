@@ -30,9 +30,10 @@
 
 <ul>
 
-[-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: Problem Statement</h2>
+
 Netflix is the world’s leading internet entertainment service enjoying TV series, documentaries, and feature films across a wide variety of genres and languages. The task is to analyze the dataset from the Netflix database to cluster similar content by matching text-based features. Most users spend more time deciding what to watch than watching a movie or a tv show. Therefore, by understanding the existing data and analysing their trends and patterns, a machine learning model can be built for the segmentation of different types of movies/tv shows that can help the user in recommending movies and shows based on their preferences.
 
 <h2> :book: Data Summary</h2>
@@ -52,6 +53,8 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * duration : Total Duration - in minutes or number of seasons
 * listed_in : Genere
 * description: The Summary description
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Approach:
 Below is a brief description of the general approach that I used:
