@@ -54,9 +54,8 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * listed_in : Genere
 * description: The Summary description
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# Approach:
+## Approach:
 Below is a brief description of the general approach that I used:
 * Data cleaning and pre-processing: 
 Here I checked and handled the missing and duplicate variables from the dataset as these can significantly affect the performance of a machine learning algorithm.
@@ -67,7 +66,7 @@ Clustering or cluster analysis is a machine learning technique, which groups the
 It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns. 
 It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML systems can use this id to simplify the processing of large and complex datasets.
 
-# Data insights:
+## Data insights:
 * Most of the content available on Netflix is for mature audiences which shows the demand for kids’ content is low.
 * In recent years, Netflix has increasingly focused on TV shows rather than movies.
 * Most movies/TV shows available on Netflix were directed by Raúl Campos and Jan Suter.
@@ -80,7 +79,7 @@ It is an unsupervised learning method, hence no supervision is provided to the a
 * Content is divided into 5 clusters: Family movies, Documentaries, International TV Shows, International movies and Kids’ TV shows.
 
 
-# Conclusion
+## 📘 Conclusion
 Clustering is a powerful technique that can be used for movie recommendation systems like Netflix. By grouping similar movies and users together, clustering algorithms can identify patterns in the preferences and behavior of users, providing valuable insights into which movies to recommend to which users. This leads to more personalized recommendations, better user engagement, and increased satisfaction with the movie-watching experience. By using clustering, Netflix can continue to provide its users with relevant, enjoyable content, making it a crucial component in maintaining its position as a leader in the entertainment industry.
 
 
