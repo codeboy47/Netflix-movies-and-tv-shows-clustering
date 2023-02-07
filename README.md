@@ -8,7 +8,7 @@
 <img src="Images/gsmarena_001.jpg" alt="gsmarena_001.jpg" width="700px" height="382px">
 </p>
 
-<p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like description, cast, director, genre etc. for a particular movie/show.</p>
+<p>In this project, I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like description, cast, director, genre etc. for a particular movie/show.</p>
 
 
 ## :floppy_disk: Project Files Description
