@@ -8,11 +8,11 @@
 <img src="Images/gsmarena_001.jpg" alt="gsmarena_001.jpg" width="700px" height="382px">
 </p>
 
-<p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.</p>
+<p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like description, cast, director, genre etc. for a particular movie/show.</p>
 
-<h2> :floppy_disk: Project Files Description</h2>
+## :floppy_disk: Project Files Description
 
-<p>This Project includes a colab notebook, a data source and a presentation:</p>
+<p>This project includes a colab notebook, a data source and a presentation:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>Netflix_movies_and_tv_shows_clustering.ipynb</b> - Includes all functions required for classification operations.</li>
@@ -28,15 +28,13 @@
   <li><b>Google Colab</b> - All the outputs are visible in the provided colab notebook.
 </ul>
 
-<ul>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: Problem Statement</h2>
+## :book: Problem Statement
 
 Netflix is the world’s leading internet entertainment service enjoying TV series, documentaries, and feature films across a wide variety of genres and languages. The task is to analyze the dataset from the Netflix database to cluster similar content by matching text-based features. Most users spend more time deciding what to watch than watching a movie or a tv show. Therefore, by understanding the existing data and analysing their trends and patterns, a machine learning model can be built for the segmentation of different types of movies/tv shows that can help the user in recommending movies and shows based on their preferences.
 
-<h2> :book: Data Summary</h2>
+## :book: Data Summary
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine.
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
@@ -55,7 +53,7 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * description: The Summary description
 
 
-## Approach:
+## :book: Approach:
 Below is a brief description of the general approach that I used:
 * Data cleaning and pre-processing: 
 Here I checked and handled the missing and duplicate variables from the dataset as these can significantly affect the performance of a machine learning algorithm.
@@ -66,7 +64,7 @@ Clustering or cluster analysis is a machine learning technique, which groups the
 It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns. 
 It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML systems can use this id to simplify the processing of large and complex datasets.
 
-## Data insights:
+## :book: Data insights:
 * Most of the content available on Netflix is for mature audiences which shows the demand for kids’ content is low.
 * In recent years, Netflix has increasingly focused on TV shows rather than movies.
 * Most movies/TV shows available on Netflix were directed by Raúl Campos and Jan Suter.
